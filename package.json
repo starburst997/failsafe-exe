@@ -1,0 +1,10 @@
+{
+  "name": "FailsafeGames-EXE-maker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@shockpkg/swf-projector": "^2.5.1",
+    "archiver": "^5.1.0",
+    "xmldom": ">=0.5.0"
+  }
+}
